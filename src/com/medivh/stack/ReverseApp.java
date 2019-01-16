@@ -4,6 +4,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
+//模拟栈,对字符串进行颠倒输出
 public class ReverseApp {
     public static void main(String[] args) throws IOException {
         String input,output;
